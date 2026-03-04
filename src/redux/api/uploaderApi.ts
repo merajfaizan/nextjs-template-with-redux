@@ -9,6 +9,7 @@ const uploaderApi = baseApi.injectEndpoints({
         body: data,
       }),
     }),
+    
   }),
 });
 
